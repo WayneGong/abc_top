@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../abc_top.srcs/sources_1/ip/multiplier/sim/multiplier.vhd" \
+
+nosort
